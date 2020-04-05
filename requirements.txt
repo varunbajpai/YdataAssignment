@@ -1,0 +1,9 @@
+pandas
+calendar 
+datetime 
+calendar 
+keras
+tensorflow
+sklearn
+matplotlib
+numpy
