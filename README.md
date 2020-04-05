@@ -20,10 +20,15 @@ The path for raw data is set to : Data Challenge/California_SO2_Measures.csv
 
 
 About:
+
 In order to predict the So2 levels across the state of california i took average of S02 levels across all the dates
+
 Dates in this case acts as primary key for data agrregation
+
 Dates are then changed to Day Wise Categorical Variables: Rational behind this step : S02 levels are higher on weekdays as compared tto weekends
+
 Continuous Variables are Mean Normalized
 
 Variables which have same value such as units or name of county and Longitude latitude are ignored
+
 If we want to deal with each county seperately: the underlying architetcture remains same but additional feature of Location Detail can be added on
