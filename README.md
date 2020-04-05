@@ -11,10 +11,10 @@ All files are independent of each other:
 
 Order of execution is as follows
 
-pip install -r requirements.txt : First install all the dependencies using the command
-DataPreprocessing.ipynb
-Train.ipynb
-Test.ipynb
+1) pip install -r requirements.txt : First install all the dependencies using the command
+2) DataPreprocessing.ipynb
+3) Train.ipynb
+4) Test.ipynb
 
 The path for raw data is set to : Data Challenge/California_SO2_Measures.csv
 
